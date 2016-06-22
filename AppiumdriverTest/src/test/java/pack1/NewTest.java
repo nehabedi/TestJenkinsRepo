@@ -57,11 +57,11 @@ public class NewTest
 	  takeScreenshot(screenshot1);
   }
   
-  @Test
-  public void secondT() 
-  {
-	 Assert.fail("Failing Test Case for Testing Purpose.- NOT A VALID FAILURE - IGNORE!!!");
-  }
+  // @Test
+  // public void secondT() 
+  // {
+	 // Assert.fail("Failing Test Case for Testing Purpose.- NOT A VALID FAILURE - IGNORE!!!");
+  // }
   
   @AfterMethod
   public static void tearDownClass() 
